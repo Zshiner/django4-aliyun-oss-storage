@@ -2,9 +2,11 @@
 -------------
 
 使用方法
-\\
+
 1. 下载django4-aliyun-oss-storage到本地
+
 2. 将django4-aliyun-oss-storage放置于django导包目录(可在settings.py中通过sys.path添加)或项目根目录
+
 3. 在settings.py中加入配置
 
 # 阿里云OSS云存储相关信息
